@@ -9,6 +9,7 @@ This repo contains:
 * DCJ will implement a system for PII and PCI data protection in AWS.
   * The team will provide a CIS-compliant server
   * IAMs for all users, following best practices 
+  * Encryption of data at rest and in transit
   * A log aggregation system  
   * Cloud Monitoring
   * DLP Controls
