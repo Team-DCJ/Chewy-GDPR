@@ -5,6 +5,14 @@ This repo contains:
 * The README.md file.  
 * Project agreement markdown file.   
 * Python Script  
+* This project intends to provide Chewy with our consulting services so they can become GDPR compliant and expand its market to Europe.
+* DCJ will implement a system for PII and PCI data protection in AWS.
+  * The team will provide a CIS-compliant server
+  * IAMs for all users, following best practices 
+  * A log aggregation system  
+  * Cloud Monitoring
+  * DLP Controls
+
 
 ***
 
