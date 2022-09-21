@@ -13,6 +13,14 @@
 ### This document was created by Jeremy Burks and proof-read by Christopher Marco and Devin Iverson
 https://docs.google.com/document/d/1XZCIW74ssziImz0DoduCsX9bMisKUKuPgg_m7jXBwWo/edit?usp=sharing
 
-***
-
+*** 
 ENTER IN THE REST OF THE DELIVERABLES HERE
+
+1.
+2. Security Assessment Report (SAR)
+3. 
+4. 
+5. 
+
+
+https://docs.google.com/document/d/1OLzieBvnSo70GGj-z9H7wVgv54QBZ65nkobtKb9Haag/edit?usp=sharing
