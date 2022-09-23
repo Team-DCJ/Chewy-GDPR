@@ -16,11 +16,11 @@ https://docs.google.com/document/d/1XZCIW74ssziImz0DoduCsX9bMisKUKuPgg_m7jXBwWo/
 *** 
 ENTER IN THE REST OF THE DELIVERABLES HERE
 
-1.
+1. Risk Assessment
 2. Security Assessment Report (SAR)
 3. 
 4. 
 5. 
 
-
+https://docs.google.com/spreadsheets/d/1YUXIG8BXzozt0H7S7bfbo986P7LlUqglTkBqu1M9HWA/edit?usp=sharing
 https://docs.google.com/document/d/1OLzieBvnSo70GGj-z9H7wVgv54QBZ65nkobtKb9Haag/edit?usp=sharing
