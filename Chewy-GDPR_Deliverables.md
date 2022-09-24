@@ -10,7 +10,6 @@
 1. Data security policy: Employee requirements
 2. Data security policy: Data Leakage Prevention – Data in Motion
 3. Data security policy: Workstation Full Disk Encryption
-4. 
 ### This document was created by Jeremy Burks and proof-read by Christopher Marco and Devin Iverson
 https://docs.google.com/document/d/1XZCIW74ssziImz0DoduCsX9bMisKUKuPgg_m7jXBwWo/edit?usp=sharing
 
