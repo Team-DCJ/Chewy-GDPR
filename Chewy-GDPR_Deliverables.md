@@ -10,17 +10,32 @@
 1. Data security policy: Employee requirements
 2. Data security policy: Data Leakage Prevention – Data in Motion
 3. Data security policy: Workstation Full Disk Encryption
+4. 
 ### This document was created by Jeremy Burks and proof-read by Christopher Marco and Devin Iverson
 https://docs.google.com/document/d/1XZCIW74ssziImz0DoduCsX9bMisKUKuPgg_m7jXBwWo/edit?usp=sharing
 
 *** 
-ENTER IN THE REST OF THE DELIVERABLES HERE
 
-1. Risk Assessment
-2. Security Assessment Report (SAR)
-3. 
-4. 
-5. 
-
+## Risk Assessment
 https://docs.google.com/spreadsheets/d/1YUXIG8BXzozt0H7S7bfbo986P7LlUqglTkBqu1M9HWA/edit?usp=sharing
+
+## Security Assessment Report (SAR)
 https://docs.google.com/document/d/1OLzieBvnSo70GGj-z9H7wVgv54QBZ65nkobtKb9Haag/edit?usp=sharing
+
+### These documents were created by Christopher Marco and proof-read by Jeremy Burks and Devin Iverson
+
+***
+
+## Chewy Security Architecture Narrative
+### This document was created by Jeremy Burks and proof-read by Christopher Marco and Devin Iverson
+
+https://docs.google.com/document/d/13oFlno5rZEpqxcxamKYd_J3rMtKJmg80L3UPtvvKQhQ/edit?usp=sharing
+
+### Cloud Network Diagram created by Jeremy Burks
+https://drive.google.com/file/d/16D4xJVFM4Ew7xPIEs92k_2hLg_yAmIyb/view?usp=sharing
+
+***
+
+## Cloud Security Policy
+
+### This document was created by Devin Iverson and proof-read by Jeremy Burks and Chritopher Marco
