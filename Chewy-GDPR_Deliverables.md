@@ -38,3 +38,4 @@ https://drive.google.com/file/d/16D4xJVFM4Ew7xPIEs92k_2hLg_yAmIyb/view?usp=shari
 ## Cloud Security Policy
 
 ### This document was created by Devin Iverson and proof-read by Jeremy Burks and Chritopher Marco
+https://docs.google.com/document/d/1Tnx5g0K41ecNvorg0ygKsid2lunU8n3FxAP6H0d792k/edit?usp=sharing
