@@ -91,7 +91,7 @@ NOTE: While researching and experimentation is always encouraged, writing and/or
 
 ### Presentation Deck
 A copy of the Presentation Deck Template has to be made, so team members can work on the same file. Link to the shared doc in your project plan.
-**Mid Project:** Ops401 Mid/Final Project Deck Template
+**Mid Project:** [Chewy Infrastructure](https://drive.google.com/file/d/1nIfo6rMmLCAd9vQiol_x_NyfFSv9k7PM/view?usp=sharing)
 
 ### Schedule your practice session
 The team will pre-schedule a date and time with the instructor for a “practice run” presentation. This practice should get really close if not exact to the time already predetermined. A 30 to 45 minute meeting before the actual presentation should take place to allow time for a practice run and feedback from the instructional team.
